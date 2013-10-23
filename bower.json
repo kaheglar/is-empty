@@ -1,0 +1,16 @@
+{
+  "name": "is-empty",
+  "description": "Function to test is a value is empty.",
+  "version": "0.1.0",
+  "main": [
+    "lib/main.js"
+  ],
+  "ignore": [
+    "*",
+    "!bower.json",
+    "!lib/main.js"
+  ],
+  "dependencies": {
+    "requirejs": "*"
+  }
+}
